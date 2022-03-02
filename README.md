@@ -1,5 +1,7 @@
 # Paste reproducibility
-Code to reproduce the analysis and figures in the Paste manuscript.
+Code to reproduce the analysis and figures in the [Alignment and Integration of
+Spatial Transcriptomics
+Data](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1).
 
 ## Datasets
 * All preprocessed datasets can be found on [zenodo](https://sandbox.zenodo.org/record/1026068#.Yh-4l5PMLRY). 
