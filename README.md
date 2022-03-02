@@ -2,7 +2,11 @@
 Code to reproduce the analysis and figures in the Paste manuscript.
 
 ## Datasets
-* **TODO**: Decide where we will host datasets.
+* All preprocessed datasets can be found on [zenodo](https://sandbox.zenodo.org/record/1026068#.Yh-4l5PMLRY). 
+* For convenience there is a script called
+[`download_data.sh`](scripts/download_data.sh) that
+will download all the relevant files to the [data](data/) directory in the
+correct hierarchy.
 
 ## Main figures
 * **TODO**: Populate this section with links to the notebooks to reproduce
