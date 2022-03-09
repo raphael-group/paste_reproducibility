@@ -12,9 +12,12 @@ correct hierarchy.
 
 ## Main figures
 * [Figure 2](notebooks/simulation-figures.ipynb)
-* [Figure 3](notebooks/scc-figures.ipynb) <!--TODO: update this notebook to
-have all patients and 3d plots as well.-->
-* [Figure 4](notebooks/scc-figures.ipynb)
+* Figure 3 <!--TODO: update this notebook to have all patients and 3d plots as well.-->
+    * [3a,f](notebooks/scc-figures.ipynb)
+    * [3b-e](notebooks/scc-analysis-pariwise-and-center.ipynb)
+* Figure 4
+    * [4a](notebooks/scc-figures.ipynb)
+    * [3b-c](notebooks/scc-analysis-pariwise-and-center.ipynb)
 * [Figure 5](notebooks/DLPFC_pairwise.ipynb)
 * [Figure 6](notebooks/DLPFC_center.ipynb)
 
@@ -50,12 +53,13 @@ center-->
 * [Figure S15](notebooks/DLPFC_pairwise.ipynb) <!--TODO: double check-->
 * [Figure S16](notebooks/DLPFC_pairwise.ipynb) <!--TODO: double check-->
 * [Figure S17](notebooks/DLPFC_pairwise.ipynb) <!--TODO: double check-->
-* [Figure S18](notebooks/) <!--TODO: create notebook-->
-* [Figure S19](notebooks/) <!--TODO: create notebook-->
-* [Figure S20](notebooks/) <!--TODO: create notebook-->
-* [Figure S21](notebooks/) <!--TODO: create notebook-->
-* [Figure S22](notebooks/) <!--TODO: create notebook-->
-* [Figure S23](notebooks/) <!--TODO: create notebook-->
+* [Figure S18](notebooks/compare-alphas-inits.ipynb) 
+* [Figure S19](notebooks/compare-alphas-inits.ipynb)
+* [Figure S20](notebooks/compare-alphas-inits.ipynb) <!--TODO: need to modify
+compare-alphas-inits.ipynb requires changing cached file...--> 
+* [Figure S21](notebooks/) <!--TODO: Ron, can't find figure;-->
+* [Figure S22](notebooks/cell-count-prior.ipynb) 
+* [Figure S23](notebooks/cell-count-prior.ipynb) 
 * [Figure S24](notebooks/DLPFC_center.ipynb)
 * [Figure S25](notebooks/DLPFC_center.ipynb)
 * [Figure S26](notebooks/DLPFC_center.ipynb)
