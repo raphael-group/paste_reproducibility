@@ -17,7 +17,7 @@ correct hierarchy.
     * [3b-e](notebooks/scc-analysis-pariwise-and-center.ipynb)
 * Figure 4
     * [4a](notebooks/scc-figures.ipynb)
-    * [3b-c](notebooks/scc-analysis-pariwise-and-center.ipynb)
+    * [4b-c](notebooks/scc-analysis-pariwise-and-center.ipynb)
 * [Figure 5](notebooks/DLPFC_pairwise.ipynb)
 * [Figure 6](notebooks/DLPFC_center.ipynb)
 
