@@ -19,20 +19,21 @@ have all patients and 3d plots as well.-->
 * [Figure 6](notebooks/DLPFC_center.ipynb)
 
 ## Extended Data figures
-* [ED Figure 1](notebooks/) <!--TODO: me, tutorial notebook simplified-->
+* [ED Figure 1](notebooks/stahl-bc-analysis.ipynb) 
 * [ED Figure 2](notebooks/simulation-figures.ipynb)
-* [ED Figure 3](notebooks/Figures.ipynb) <!--TODO: Max-->
+* [ED Figure 3](notebooks/) <!--TODO: Max-->
 * [ED Figure 4](notebooks/DLPFC_pairwise.ipynb) <!--TODO: Ron-->
 * [ED Figure 5](notebooks/DLPFC_pairwise.ipynb)
 * [ED Figure 6](notebooks/) <!--TODO: Ron-->
-* [ED Figure 7](notebooks/) <!--TODO: Me-->
+* [ED Figure 7](notebooks/compare-normalizations.ipynb) 
 * [ED Figure 8](notebooks/DLPFC_center.ipynb)
 * [ED Figure 9](notebooks/DLPFC_center.ipynb)
 
 ## Supplementary figures
 * [Figure S2](notebooks/non-zero-count-figures.ipynb) <!--TODO: modify to make
 all 4 figures-->
-* [Figure S3](notebooks/) 
+* [Figure S3](notebooks/) <!--TODO: some of these numbers are def in
+scc-analysis, need to find the others.-->
 * [Figure S4](notebooks/) <!--TODO: maybe in center and align simulation-->
 * [Figure S5](notebooks/simulation-figures.ipynb)
 * [Figure S6](notebooks/simulation-figures.ipynb) 
@@ -60,5 +61,5 @@ center-->
 * [Figure S26](notebooks/DLPFC_center.ipynb)
 * [Figure S27](notebooks/DLPFC_center.ipynb)
 * [Figure S28](notebooks/DLPFC_center.ipynb)
-* [Figure S29](notebooks/) <!--TODO: upload notebook-->
-* [Figure S30](notebooks/) <!--TODO: find this?/create notebook-->
+* [Figure S29](notebooks/visualize-dlpfc.ipynb) 
+* [Figure S30](notebooks/) <!--TODO: create notebook-->
