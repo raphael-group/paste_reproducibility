@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Data Files
-*.csv 
+# *.csv 
 *.h5
 *.DS_Store
 
