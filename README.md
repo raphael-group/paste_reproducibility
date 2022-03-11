@@ -11,7 +11,7 @@ will download all the relevant files to the [data](data/) directory in the
 correct hierarchy.
 
 ## Main figures
-* [Figure 2]
+* Figure 2
     * [2a](notebooks/pairwise-simulation.ipynb)
     * [2b](notebooks/center-align-simulation.ipynb)
     * [2c](notebooks/center-align-simulation-scanorama-comparison.ipynb)
@@ -23,7 +23,7 @@ correct hierarchy.
 ## Extended Data figures
 * [ED Figure 1](notebooks/stahl-bc-analysis.ipynb) 
 * [ED Figure 2](notebooks/simulation-figures.ipynb)
-* [ED Figure 3](notebooks/) <!--TODO: Max-->
+* [ED Figure 3](notebooks/scc-analysis-pariwise-and-center.ipynb)
 * [ED Figure 4](notebooks/DLPFC_pairwise.ipynb) <!--TODO: Ron-->
 * [ED Figure 5](notebooks/DLPFC_pairwise.ipynb)
 * [ED Figure 6](notebooks/) <!--TODO: Ron-->
@@ -39,8 +39,7 @@ scc-analysis, need to find the others.-->
 * [Figure S5](notebooks/simulation-figures.ipynb)
 * [Figure S6](notebooks/simulation-figures.ipynb) 
 * [Figure S7](notebooks/) <!--TODO:3d scc patients stacked, maybe max?-->
-* [Figure S8](notebooks/scc-analysis-pairwise-and-center.ipynb) <!--TODO:this
-notebook creates this figure but not for both p2 and p9, max?-->
+* [Figure S8](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [Figure S9](notebooks/scc-downsample-plots.ipynb)
 * [Figure S10](notebooks/visium-scc-analysis.ipynb)
 * [Figure S11](notebooks/spinal-cord-analysis.ipynb)
