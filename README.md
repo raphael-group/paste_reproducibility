@@ -15,15 +15,15 @@ correct hierarchy.
     * [2a](notebooks/pairwise-simulation.ipynb)
     * [2b](notebooks/center-align-simulation.ipynb)
     * [2c](notebooks/center-align-simulation-scanorama-comparison.ipynb)
-* [Figure 3](notebooks/scc-analysis-pariwise-and-center.ipynb)
-* [Figure 4](notebooks/scc-analysis-pariwise-and-center.ipynb)
+* [Figure 3](notebooks/scc-analysis-pairwise-and-center.ipynb)
+* [Figure 4](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [Figure 5](notebooks/DLPFC_pairwise.ipynb)
 * [Figure 6](notebooks/DLPFC_center.ipynb)
 
 ## Extended Data figures
 * [ED Figure 1](notebooks/stahl-bc-analysis.ipynb) 
 * [ED Figure 2](notebooks/simulation-figures.ipynb)
-* [ED Figure 3](notebooks/scc-analysis-pariwise-and-center.ipynb)
+* [ED Figure 3](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [ED Figure 4](notebooks/DLPFC_pairwise.ipynb) <!--TODO: Ron-->
 * [ED Figure 5](notebooks/DLPFC_pairwise.ipynb)
 * [ED Figure 6](notebooks/) <!--TODO: Ron-->
@@ -38,7 +38,7 @@ scc-analysis, need to find the others.-->
 * [Figure S4](notebooks/) <!--TODO: maybe in center and align simulation-->
 * [Figure S5](notebooks/simulation-figures.ipynb)
 * [Figure S6](notebooks/simulation-figures.ipynb) 
-* [Figure S7](notebooks/scc-analysis-pariwise-and-center.ipynb)
+* [Figure S7](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [Figure S8](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [Figure S9](notebooks/scc-downsample-plots.ipynb)
 * [Figure S10](notebooks/visium-scc-analysis.ipynb)
