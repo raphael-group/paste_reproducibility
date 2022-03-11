@@ -38,7 +38,7 @@ scc-analysis, need to find the others.-->
 * [Figure S4](notebooks/) <!--TODO: maybe in center and align simulation-->
 * [Figure S5](notebooks/simulation-figures.ipynb)
 * [Figure S6](notebooks/simulation-figures.ipynb) 
-* [Figure S7](notebooks/) <!--TODO:3d scc patients stacked, maybe max?-->
+* [Figure S7](notebooks/scc-analysis-pariwise-and-center.ipynb)
 * [Figure S8](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [Figure S9](notebooks/scc-downsample-plots.ipynb)
 * [Figure S10](notebooks/visium-scc-analysis.ipynb)
