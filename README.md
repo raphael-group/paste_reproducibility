@@ -11,13 +11,12 @@ will download all the relevant files to the [data](data/) directory in the
 correct hierarchy.
 
 ## Main figures
-* [Figure 2](notebooks/simulation-figures.ipynb)
-* Figure 3 <!--TODO: update this notebook to have all patients and 3d plots as well.-->
-    * [3a,f](notebooks/scc-figures.ipynb)
-    * [3b-e](notebooks/scc-analysis-pariwise-and-center.ipynb)
-* Figure 4
-    * [4a](notebooks/scc-figures.ipynb)
-    * [4b-c](notebooks/scc-analysis-pairwise-and-center.ipynb)
+* [Figure 2]
+    * [2a](notebooks/pairwise-simulation.ipynb)
+    * [2b](notebooks/center-align-simulation.ipynb)
+    * [2c](notebooks/center-align-simulation-scanorama-comparison.ipynb)
+* [Figure 3](notebooks/scc-analysis-pariwise-and-center.ipynb)
+* [Figure 4](notebooks/scc-analysis-pariwise-and-center.ipynb)
 * [Figure 5](notebooks/DLPFC_pairwise.ipynb)
 * [Figure 6](notebooks/DLPFC_center.ipynb)
 
@@ -33,8 +32,7 @@ correct hierarchy.
 * [ED Figure 9](notebooks/DLPFC_center.ipynb)
 
 ## Supplementary figures
-* [Figure S2](notebooks/non-zero-count-figures.ipynb) <!--TODO: modify to make
-all 4 figures-->
+* [Figure S2](notebooks/non-zero-count-figures.ipynb)
 * [Figure S3](notebooks/) <!--TODO: some of these numbers are def in
 scc-analysis, need to find the others.-->
 * [Figure S4](notebooks/) <!--TODO: maybe in center and align simulation-->
