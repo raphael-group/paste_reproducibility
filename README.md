@@ -33,9 +33,8 @@ correct hierarchy.
 
 ## Supplementary figures
 * [Figure S2](notebooks/non-zero-count-figures.ipynb)
-* [Figure S3](notebooks/) <!--TODO: some of these numbers are def in
-scc-analysis, need to find the others.-->
-* [Figure S4](notebooks/) <!--TODO: maybe in center and align simulation-->
+* [Figure S3](notebooks/sparsity-results.ipynb)
+* [Figure S4](notebooks/stahl-bc-rotations.ipynb)
 * [Figure S5](notebooks/simulation-figures.ipynb)
 * [Figure S6](notebooks/simulation-figures.ipynb) 
 * [Figure S7](notebooks/scc-analysis-pairwise-and-center.ipynb)
