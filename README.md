@@ -33,7 +33,7 @@ correct hierarchy.
 
 ## Supplementary figures
 * [Figure S2](notebooks/non-zero-count-figures.ipynb)
-* [Figure S3](notebooks/sparsity-results.ipynb)
+* [Figure S3](notebooks/sparsity-analysis.ipynb)
 * [Figure S4](notebooks/stahl-bc-rotations.ipynb)
 * [Figure S5](notebooks/simulation-figures.ipynb)
 * [Figure S6](notebooks/simulation-figures.ipynb) 
