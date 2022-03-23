@@ -60,4 +60,4 @@ correct hierarchy.
 * [Figure S27](notebooks/DLPFC_center.ipynb)
 * [Figure S28](notebooks/DLPFC_center.ipynb)
 * [Figure S29](notebooks/visualize-dlpfc.ipynb) 
-* [Figure S30](notebooks/) <!--TODO: create notebook-->
+* [Figure S30](notebooks/degs.ipynb)
