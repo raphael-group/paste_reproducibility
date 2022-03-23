@@ -24,9 +24,9 @@ correct hierarchy.
 * [ED Figure 1](notebooks/stahl-bc-analysis.ipynb) 
 * [ED Figure 2](notebooks/simulation-figures.ipynb)
 * [ED Figure 3](notebooks/scc-analysis-pairwise-and-center.ipynb)
-* [ED Figure 4](notebooks/DLPFC_pairwise.ipynb) <!--TODO: Ron-->
+* [ED Figure 4](notebooks/her2.ipynb) 
 * [ED Figure 5](notebooks/DLPFC_pairwise.ipynb)
-* [ED Figure 6](notebooks/) <!--TODO: Ron-->
+* [ED Figure 6](notebooks/DLPFC_pariwise.ipynb)
 * [ED Figure 7](notebooks/compare-normalizations.ipynb) 
 * [ED Figure 8](notebooks/DLPFC_center.ipynb)
 * [ED Figure 9](notebooks/DLPFC_center.ipynb)
@@ -43,17 +43,15 @@ correct hierarchy.
 * [Figure S10](notebooks/visium-scc-analysis.ipynb)
 * [Figure S11](notebooks/spinal-cord-analysis.ipynb)
 * [Figure S12](notebooks/spinal-cord-analysis.ipynb)
-* [Figure S13](notebooks/) <!--TODO (RON):her2bc ERBB2, single and paste
-center-->
-* [Figure S14](notebooks/) <!--TODO (RON):paste,stutility,alignment plot-->
+* [Figure S13](notebooks/her2.ipynb) 
+* [Figure S14](notebooks/DLPFC_pairwise.ipynb) 
 * [Figure S15](notebooks/DLPFC_pairwise.ipynb) <!--TODO: double check-->
-* [Figure S16](notebooks/DLPFC_pairwise.ipynb) <!--TODO: double check-->
+* [Figure S16](notebooks/DLPFC_pairwise.ipynb) 
 * [Figure S17](notebooks/DLPFC_pairwise.ipynb) <!--TODO: double check-->
 * [Figure S18](notebooks/compare-alphas-inits.ipynb) 
 * [Figure S19](notebooks/compare-alphas-inits.ipynb)
-* [Figure S20](notebooks/compare-alphas-inits.ipynb) <!--TODO: need to modify
-compare-alphas-inits.ipynb requires changing cached file...--> 
-* [Figure S21](notebooks/) <!--TODO: Ron, can't find figure;-->
+* [Figure S20](notebooks/compare-alphas-inits.ipynb) 
+* [Figure S21](notebooks/cell-count-prior.ipynb) 
 * [Figure S22](notebooks/cell-count-prior.ipynb) 
 * [Figure S23](notebooks/cell-count-prior.ipynb) 
 * [Figure S24](notebooks/DLPFC_center.ipynb)

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Download DLPFC data
+######################################## Download DLPFC data ###################################################
 ## Download all preprocessed DLPFC slices
 for fn in 151507 151508 151509 151510 151669 151670 151671 151672 151673 151674 151675 151676; do
     wget -O ../data/DLPFC/${fn}_preprocessed.h5 https://zenodo.org/record/6334774/files/${fn}_preprocessed.h5?download=1
@@ -22,7 +22,25 @@ mv sample-3 ../data/DLPFC/
 cd ../data/DLPFC/sample-3/151674/spatial
 mv tissue_positions_list.txt tissue_positions_list.csv
 
-# Download Stahl BC data
+## Download spot cell counts from original source
+for fn in 151507 151508 151509 151510 151669 151670 151671 151672 151673 151674 151675 151676; do
+    wget --no-check-certificate --content-disposition -O ../data/DLPFC/${fn}_tissue_spot_counts.csv https://raw.githubusercontent.com/LieberInstitute/HumanPilot/master/Analysis/Histology/${fn}/tissue_spot_counts.csv
+done
+
+################################################################################################################
+
+
+############################################# Download Stahl BC data ###########################################
 wget -O ../data/Stahl-BC/stahl_bc_data.zip https://zenodo.org/record/6334774/files/stahl_bc_data.zip?download=1
 ## and unzip it
 unzip -d ../data/Stahl-BC/ ../data/Stahl-BC/stahl_bc_data.zip
+###############################################################################################################
+
+############################################# Download Her2 data ###########################################
+wget -O ../data/HER2/her2bc-ST-cnts.zip https://zenodo.org/record/6334774/files/her2bc-ST-cnts.zip?download=1
+unzip ../data/HER2/her2bc-ST-cnts.zip -d ../data/HER2/
+rm -rf ../data/HER2/__MACOSX
+rm ../data/HER2/her2bc-ST-cnts.zip
+mv ../data/HER2/ST-cnts/* ../data/HER2/
+rm -rf ../data/HER2/ST-cnts
+###############################################################################################################
