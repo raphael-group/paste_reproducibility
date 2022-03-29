@@ -29,6 +29,18 @@ done
 
 ################################################################################################################
 
+############################################# Download SCC data ###########################################
+for n in 2 5 9 10; do
+    wget -O ../data/SCC/scc_p${n}.zip https://zenodo.org/record/6334774/files/scc_p${n}.zip?download=1
+    unzip -d ../data/SCC/ ../data/SCC/scc_p${n}.zip
+done
+rm -rf ../data/SCC/__MACOSX
+rm ../data/SCC/*.zip
+
+wget -O ../data/SCC/scc_visium.zip https://zenodo.org/record/6334774/files/scc_visium.zip?download=1
+unzip -d ../data/SCC/ ../data/SCC/scc_visium.zip
+
+###############################################################################################################
 
 ############################################# Download Stahl BC data ###########################################
 wget -O ../data/Stahl-BC/stahl_bc_data.zip https://zenodo.org/record/6334774/files/stahl_bc_data.zip?download=1

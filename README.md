@@ -53,7 +53,7 @@ correct hierarchy.
 * [Figure S20](notebooks/compare-alphas-inits.ipynb) 
 * [Figure S21](notebooks/cell-count-prior.ipynb) 
 * [Figure S22](notebooks/cell-count-prior.ipynb) 
-* [Figure S23](notebooks/cell-count-prior.ipynb) 
+* [Figure S23](notebooks/cell-count-prior.ipynb) <!--TODO: double check-->
 * [Figure S24](notebooks/DLPFC_center.ipynb)
 * [Figure S25](notebooks/DLPFC_center.ipynb)
 * [Figure S26](notebooks/DLPFC_center.ipynb)
