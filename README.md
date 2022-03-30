@@ -22,11 +22,11 @@ correct hierarchy.
 
 ## Extended Data figures
 * [ED Figure 1](notebooks/stahl-bc-analysis.ipynb) 
-* [ED Figure 2](notebooks/simulation-figures.ipynb)
+* [ED Figure 2](notebooks/pairwise-simulation.ipynb)
 * [ED Figure 3](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [ED Figure 4](notebooks/her2.ipynb) 
 * [ED Figure 5](notebooks/DLPFC_pairwise.ipynb)
-* [ED Figure 6](notebooks/DLPFC_pariwise.ipynb)
+* [ED Figure 6](notebooks/DLPFC_pairwise.ipynb)
 * [ED Figure 7](notebooks/compare-normalizations.ipynb) 
 * [ED Figure 8](notebooks/DLPFC_center.ipynb)
 * [ED Figure 9](notebooks/DLPFC_center.ipynb)
@@ -35,8 +35,8 @@ correct hierarchy.
 * [Figure S2](notebooks/non-zero-count-figures.ipynb)
 * [Figure S3](notebooks/sparsity-analysis.ipynb)
 * [Figure S4](notebooks/stahl-bc-rotations.ipynb)
-* [Figure S5](notebooks/simulation-figures.ipynb)
-* [Figure S6](notebooks/simulation-figures.ipynb) 
+* [Figure S5](notebooks/center-align-simulation.ipynb)
+* [Figure S6](notebooks/center-align-simulation-scanorama-comparison.ipynb) 
 * [Figure S7](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [Figure S8](notebooks/scc-analysis-pairwise-and-center.ipynb)
 * [Figure S9](notebooks/scc-downsample-plots.ipynb)
@@ -45,9 +45,9 @@ correct hierarchy.
 * [Figure S12](notebooks/spinal-cord-analysis.ipynb)
 * [Figure S13](notebooks/her2.ipynb) 
 * [Figure S14](notebooks/DLPFC_pairwise.ipynb) 
-* [Figure S15](notebooks/DLPFC_pairwise.ipynb) <!--TODO: double check-->
+* [Figure S15](notebooks/DLPFC_pairwise.ipynb) 
 * [Figure S16](notebooks/DLPFC_pairwise.ipynb) 
-* [Figure S17](notebooks/DLPFC_pairwise.ipynb) <!--TODO: double check-->
+* [Figure S17](notebooks/DLPFC_pairwise.ipynb) 
 * [Figure S18](notebooks/compare-alphas-inits.ipynb) 
 * [Figure S19](notebooks/compare-alphas-inits.ipynb)
 * [Figure S20](notebooks/compare-alphas-inits.ipynb) 
