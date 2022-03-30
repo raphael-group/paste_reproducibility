@@ -39,6 +39,7 @@ rm ../data/SCC/*.zip
 
 wget -O ../data/SCC/scc_visium.zip https://zenodo.org/record/6334774/files/scc_visium.zip?download=1
 unzip -d ../data/SCC/ ../data/SCC/scc_visium.zip
+rm -rf ../data/SCC/__MACOSX
 
 ###############################################################################################################
 
@@ -65,5 +66,12 @@ rm ../data/Spinal-Cord/spinal_cord_data.zip
 ###############################################################################################################
 
 
+############################# Download and Process Misc. like caches ###################################
 ## Unzip included stutility alignment cache
 unzip -d ../data/DLPFC/saved_results/ ../data/DLPFC/saved_results/stutil-alginments.zip
+
+wget -O ../data/DLPFC/saved_results/tangram_pis.pickle https://zenodo.org/record/6395124/files/tangram_pis.pickle?download=1
+
+wget -O ../data/DLPFC/saved_results/center2_a0.1_KL_seed2.h5ad https://zenodo.org/record/6395124/files/center2_a0.1_KL_seed2.h5ad?download=1
+
+wget -O ../data/DLPFC/saved_results/sample3-X-all-seurat-integrated.h5ad https://zenodo.org/record/6395124/files/sample3-X-all-seurat-integrated.h5ad?download=1
