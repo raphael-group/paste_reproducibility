@@ -1,7 +1,8 @@
 # Paste reproducibility
 Code to reproduce the analysis and figures in the paper [Alignment and Integration of
 Spatial Transcriptomics
-Data](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1).
+Data](https://www.biorxiv.org/content/10.1101/2021.03.16.435604v1). The Paste
+python package is located [here](https://github.com/raphael-group/paste).
 
 ## Datasets
 * All preprocessed datasets can be found on [zenodo](https://doi.org/10.5281/zenodo.6334774). 
