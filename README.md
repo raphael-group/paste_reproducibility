@@ -3,6 +3,8 @@ Code to reproduce the analysis and figures in the paper [Alignment and Integrati
 Spatial Transcriptomics
 Data](https://www.nature.com/articles/s41592-022-01459-6). The Paste
 python package is located [here](https://github.com/raphael-group/paste).
+Note that this repo used Paste version 1.1.4 so any newer versions of Paste
+might have some issues (mostly likely related to minor utilities).
 
 ## Datasets
 * All preprocessed datasets can be found on [zenodo](https://doi.org/10.5281/zenodo.6334774). 
